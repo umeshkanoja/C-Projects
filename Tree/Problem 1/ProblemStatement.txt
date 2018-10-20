@@ -1,0 +1,1 @@
+Binary tree is stored in the array such that index of array represents node and value represents parent's index. You have given an array and you have to replace values of array with t^th parent of it. Root nodes parent will have -1 value and if t^th parent doesn't exist, then add -1.
